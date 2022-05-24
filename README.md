@@ -1,20 +1,5 @@
-# Favorites Videos URL API
+# Server working with MP API.
+### deploy: 
+#### npm i
+#### npm run dev
 
-# Platforms to Deploy
-
-- Heroku
-- Vercel
-- DigitalOcean
-- AWS
-
-# Environment variables
-- PORT
-- MONGO_DATABASE=videosdb
-- MONGO_USER=admin
-- MONGO_PASSWORD=admin
-- MONGO_HOST=database
-
-# docker
-```
-docker-compose up
-```
